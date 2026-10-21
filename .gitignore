@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.ipynb_checkpoints/
+*.egg-info/
+.venv/
+venv/
+
+# Datos / binarios pesados
+*.npz
+*.npy
+
+# Sistema
+.DS_Store
+Thumbs.db
